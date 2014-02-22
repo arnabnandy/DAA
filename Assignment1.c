@@ -1,9 +1,9 @@
 /*****************************************************************************************************
 *
 *	Author	: 	Abhishek Vajareker
-*					Arnab Nandy
-*					Anshuli Patil
-*	Date 		:	22/2/2014
+*			Arnab Nandy
+*			Anshuli Patil
+*	Date 	:	22/2/2014
 *	Purpose	:	Determines the shortest path length from source to target via at least one node flag
 *
 ******************************************************************************************************/
